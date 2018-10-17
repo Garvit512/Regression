@@ -1,0 +1,31 @@
+git basic CMD commands
+
+1- git init  
+(to initilize a new local git)
+
+2- git add -a///"file name"///"folder name"  
+(to add file or folder to upload)
+
+3- git commit -m "write cmment here"
+(to do comment for a commit)
+
+4- git remote add origin <https://github.com/yourusername/your-repo-name.git>
+(to add a new empty repo on github with user define name)
+
+5- git remote set-url origin <repo URL>
+   git remote set-url origin git@github.com:Garvit512/Regression.git
+(to get connect to existing repo)
+
+6- git push -u origin master
+(to push files in repo)
+
+HURRAY!! file is uploaded on github :)
+#########################################
+
+7- git status
+(to check the status of tracked and untracked files)
+
+8- git ls-files
+(current tracking file)
+
+ 
